@@ -8,8 +8,16 @@ namespace Vjezba1_1
 {
     class Class1
     {
+
         public void test()
         {
+
         }
+
+        public void metoda()
+        {
+
+        }
+
     }
 }
